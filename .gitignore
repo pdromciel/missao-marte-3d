@@ -1,0 +1,22 @@
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos temporarios
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuracoes do editor
+.idea/
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Capturas de testes
+captura_missao_marte.png
+teste_marte.png
